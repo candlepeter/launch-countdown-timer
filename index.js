@@ -4,7 +4,7 @@ const minute = document.getElementById("minutes");
 const second = document.getElementById("seconds");
 
 //set date for launch
-let newYear = new Date("31 Jan 2022")
+let newYear = new Date("31 Mar 2022")
 
 function launchTimer() {
 //local current date
